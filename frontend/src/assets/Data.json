@@ -1,0 +1,478 @@
+[
+  {
+    "id": 0,
+    "name": "HP Super Service DC Charging Station",
+    "address": "157, Jeevan Bima Marg, Backbay Reclamation, Churchgate, Mumbai,\n      Maharashtra 400020, India",
+    "lat": 18.9285,
+    "lng": 72.8255
+  },
+  {
+    "id": 1,
+    "name": "Blue Tokai Coffee",
+    "address": "Unit 20-22, Laxmi Woollen Mill, Opposite Blue Loft, Dr E Moses Marg, Off,\n      Shakti Mills Ln, Mahalakshmi, Mumbai",
+    "lat": 18.989356,
+    "lng": 72.825234
+  },
+  {
+    "id": 2,
+    "name": "Suba International",
+    "address": "Plot No. 211, Chakala, Sahar Rd, Opposite Cigarette Factory, Andheri East,\n      Mumbai, Maharashtra",
+    "lat": 19.106207,
+    "lng": 72.860261
+  },
+  {
+    "id": 3,
+    "name": "MCGM Parking || Runwal Anthurium",
+    "address": "Runwal Anthurium Rd, opposite Veena Nagar, Vardhman Nagar, Mulund West",
+    "lat": 19.1806661685396,
+    "lng": 72.9468472363647
+  },
+  {
+    "id": 4,
+    "name": "Kabra Metro One",
+    "address": "14, JP Rd, Aram Nagar, Seven Bunglow, Andheri West",
+    "lat": 19.1303012111998,
+    "lng": 72.8222972342668
+  },
+  {
+    "id": 5,
+    "name": "MCGM Parking || Club Aquaria",
+    "address": "Devidas Lane, Shanti Ashram Borivali West, Near St.Lawrence High School,\n      Mumbai, Maharashtra ,Borivali",
+    "lat": 19.2402364,
+    "lng": 72.8481819
+  },
+  {
+    "id": 6,
+    "name": "Lodha Florenza",
+    "address": "On Western Express Highway, adjacent to Hub Mall, Cama Industrial Estate,\n      Goregaon, Mumbai, Maharashtra ,Goregaon",
+    "lat": 19.1538114182866,
+    "lng": 72.8557957193731
+  },
+  {
+    "id": 7,
+    "name": "K Star Chembur",
+    "address": "VN Purav Marg Diamond Garden, Basant Garden, Chembur Mumbai,\n      Maharashtra,Chembur",
+    "lat": 19.052316305376,
+    "lng": 72.9016358109368
+  },
+  {
+    "id": 8,
+    "name": "Kala Ghoda Cafe",
+    "address": "10, Rope Walk Ln, Kala Ghoda, Fort, Mumbai, Maharashtra",
+    "lat": 18.9284545096609,
+    "lng": 72.8320303138997
+  },
+  {
+    "": 9,
+    "name": "Carnival Cinemas Imax",
+    "address": "Carnival Cinemas Imax, Anik Wadala Link Rd, Bhakti Park, Wadala, Mumbai,\n      Maharashtra ,Worli",
+    "lat": 19.0313299,
+    "lng": 72.8809653
+  },
+  {
+    "": 10,
+    "name": "Hotel Yogi Midtown",
+    "address": "Plot No DX 12,Thane - Belapur Road D' Zone Bonsari, Village, TTC\n      Industrial Area, Turbhe, Navi Mumbai, Maharashtra ,Thane",
+    "lat": 19.0640261000026,
+    "lng": 73.0197154300262
+  },
+  {
+    "": 11,
+    "name": "Kohinoor MCGM parking",
+    "address": "Kohinoor Square, Kasaravadi, Dadar, Mumbai, Maharashtra",
+    "lat": 19.0246088948704,
+    "lng": 72.842820210728
+  },
+  {
+    "": 12,
+    "name": "BMC Parking Runwal Greens",
+    "address": "Nahur West, Industrial Area, Bhandup West, Mumbai, Maharashtra",
+    "lat": 19.1593952,
+    "lng": 72.945112
+  },
+  {
+    "": 13,
+    "name": "BMC Market Bhandup",
+    "address": "320, 3rd Floor, BMC Market, Station Road, Bhandup West, next to Dreamz\n      Mall, Bhandup (W, Bhandup East, Mumbai, Maharashtra",
+    "lat": 19.1447758224472,
+    "lng": 72.9371466284051
+  },
+  {
+    "": 14,
+    "name": "Lodha Venezia CPL",
+    "address": "GD Ambekar Marg, Lal Baug, Parel, Mumbai, Maharashtra",
+    "lat": 18.9917205,
+    "lng": 72.841513
+  },
+  {
+    "": 15,
+    "name": "Magenta House - Mumbai",
+    "address": "TTC Industrial Area, MIDC Industrial Area, Sanpada, Navi Mumbai",
+    "lat": 19.0687045429028,
+    "lng": 73.0229869206999
+  },
+  {
+    "": 16,
+    "name": "Vasant oasis",
+    "address": "Borosil Plot,off, Makwana Rd, Marol, Andheri East, Mumbai, Maharashtra",
+    "lat": 19.1146146,
+    "lng": 72.8840941
+  },
+  {
+    "": 17,
+    "name": "Xavier Institute of Engineering",
+    "address": "Opposite S.L.Raheja Hospital, Mahim Causeway, Mahim (West), Raheja\n      Hospital Marg, Mumbai, Maharashtra",
+    "lat": 19.0452082935871,
+    "lng": 72.8415417466136
+  },
+  {
+    "": 18,
+    "name": "HOTEL REDWINGS CASTLE",
+    "address": "Near to Orion Mall/ New Panvel Bridge, Old, Mumbai - Pune Expy,",
+    "lat": 18.9945351530371,
+    "lng": 73.1151324189656
+  },
+  {
+    "": 19,
+    "name": "Hotel Om Navratna",
+    "address": "1/766, Old Mumbai Pune Highway, Near Agarwal Movers & Packers Ltd, at\n      post Chouk",
+    "lat": 18.9014249045997,
+    "lng": 73.2365788533079
+  },
+  {
+    "": 20,
+    "name": "Hotel Rasraj Parking Zone",
+    "address": "Gaurav Automobile Compound, ,Ramnath Rd, opp. BVM Multiplex,",
+    "lat": 18.6509966955593,
+    "lng": 72.8740709203267
+  },
+  {
+    "": 21,
+    "name": "Ather Space Thane",
+    "address": "Shop No. 4, Mansarovar, Opp. TMC Building, Almeda Rd,",
+    "lat": 19.1981177009338,
+    "lng": 72.9674150562047
+  },
+  {
+    "": 22,
+    "name": "Ather Space Malad",
+    "address": "SHAKTI PREMISES NEW LINK ROAD NR INORBIT MALL,",
+    "lat": 19.189887683232,
+    "lng": 72.8354531883317
+  },
+  {
+    "": 23,
+    "name": "IOCL Kini Causway, Bandra",
+    "address": "36, SV Rd, Santosh Nagar, Bandra West, Mumbai, Maharashtra 400050",
+    "lat": 19.051601,
+    "lng": 72.838011
+  },
+  {
+    "": 25,
+    "name": "Brookfield, Powai",
+    "address": "Spectra, High St, Hiranandani Gardens, Powai, Mumbai, Maharashtra 400076",
+    "lat": 19.11637,
+    "lng": 72.91086
+  },
+  {
+    "": 26,
+    "name": "Brookfield, Powai",
+    "address": "Pay & Park, Central Ave, Hiranandani Gardens, Powai, Mumbai,\n      Maharashtra 400076",
+    "lat": 19.11644,
+    "lng": 72.90968
+  },
+  {
+    "": 27,
+    "name": "Oberoi Mall, Goregaon",
+    "address": "Western Express Hwy, Yashodham, Goregaon, Mumbai, Maharashtra 400063",
+    "lat": 19.1737611,
+    "lng": 72.8600172
+  },
+  {
+    "": 28,
+    "name": "Oberoi Mall, Goregaon",
+    "address": "Western Express Hwy, Yashodham, Goregaon, Mumbai, Maharashtra 400063",
+    "lat": 19.1737611,
+    "lng": 72.8600172
+  },
+  {
+    "": 29,
+    "name": "Hotel Suba International, Andheri East",
+    "address": "SaharÃ‚  Road, Near Cigarret Factory, Chakala, Andheri East Mumbai\n      400099",
+    "lat": 19.1063175,
+    "lng": 72.8603219
+  },
+  {
+    "": 30,
+    "name": "Hotel Suba Galaxy, Andheri East",
+    "address": "NS Phadake Marg, Opp Teli galli,Near Eastern expres Highway, Andheri East\n      Mumbai 400069Ã‚",
+    "lat": 19.1142415,
+    "lng": 72.8518766
+  },
+  {
+    "": 31,
+    "name": "Hotel Suba Palace, Fort",
+    "address": "Apppllo Bunder Road, Near Gate way of India, fortÃ‚  Mumbai 400039",
+    "lat": 18.9241214,
+    "lng": 72.8328155
+  },
+  {
+    "": 32,
+    "name": "Volltic PCS04",
+    "address": "Gala No14 A, KBM compound, military road, raje shivaji nagar, marol,\n      andheri east, 400072",
+    "lat": 19.12012455,
+    "lng": 72.88724762
+  },
+  {
+    "": 33,
+    "name": "Vijay Securities",
+    "address": "35, Chandivali, Off, Saki Vihar Rd, Andheri (E, Mumbai, 400072",
+    "lat": 19.10514321,
+    "lng": 72.8869012
+  },
+  {
+    "": 34,
+    "name": "MH|MUMBAI|POWAI#HIRANANDANI GARDENS",
+    "address": "TECHNOlngY ST,HIRANANADANI GARDENS,SAINATH NAGAR,POWAI,MUMBAI,MAHARASHTARA\n      400076",
+    "lat": 19.11999443,
+    "lng": 72.9141036
+  },
+  {
+    "": 35,
+    "name": "MH|TALASARI|HOTEL SAHYADRI",
+    "address": "HOTEL SAHYADRI,TALASARI,AJMER ROAD,ACHAD,MAHARASHTRA 401606",
+    "lat": 20.22117727,
+    "lng": 72.88122971
+  },
+  {
+    "": 36,
+    "name": "CR - Bhandup Station, Bhandup East",
+    "address": "Bhandup Station East, near Kotak Mahindra ATM, Bhandup, Bhandup East,\n      Mumbai, Maharashtra 400042",
+    "lat": 19.1420246,
+    "lng": 72.937755
+  },
+  {
+    "": 37,
+    "name": "Hotel Suba International, Andheri East",
+    "address": "SaharÃ‚  Road, Near Cigarret Factory, Chakala, Andheri East Mumbai\n      400099",
+    "lat": 19.1063175,
+    "lng": 72.8603219
+  },
+  {
+    "": 38,
+    "name": "Hotel Suba Galaxy, Andheri East",
+    "address": "NS Phadake Marg, Opp Teli galli,Near Eastern expres Highway, Andheri East\n      Mumbai 400069",
+    "lat": 19.1142415,
+    "lng": 72.8518766
+  },
+  {
+    "": 39,
+    "name": "Hotel Suba Palace, Fort",
+    "address": "Apppllo Bunder Road, Near Gate way of India, fortÃ‚  Mumbai 400039",
+    "lat": 18.9241214,
+    "lng": 72.8328155
+  },
+  {
+    "": 40,
+    "name": "MH|MUMBAI|POWAI#HIRANANDANI GARDENS",
+    "address": "TECHNOlngY ST,HIRANANADANI GARDENS,SAINATH NAGAR,POWAI,MUMBAI,MAHARASHTARA\n      400076",
+    "lat": 19.12,
+    "lng": 72.9141
+  },
+  {
+    "": 41,
+    "name": "MH|TALASARI|HOTEL SAHYADRI",
+    "address": "HOTEL SAHYADRI,TALASARI,AJMER ROAD,ACHAD,MAHARASHTRA 401606",
+    "lat": 20.2212,
+    "lng": 72.8812
+  },
+  {
+    "": 42,
+    "name": "Ginger Mumbai, Andheri East",
+    "address": "Teli - Gali Road, Andheri (East), Mumbai - 400069",
+    "lat": 19.11599,
+    "lng": 72.85018
+  },
+  {
+    "": 43,
+    "name": "Tata Power RS, Versova",
+    "address": "KL Walawalkar Marg, Sahayog Nagar, Bhudargarh Colony, Andheri West,\n      Mumbai, Maharashtra 400102",
+    "lat": 19.13052,
+    "lng": 72.83056
+  },
+  {
+    "": 44,
+    "name": "Inderjit Cars, Andheri West",
+    "address": "1059/1060, Adarsh nagar, near infinity mall, Off New Link Road, Andheri\n      West, Mumbai, Maharashtra 400053",
+    "lat": 19.14207,
+    "lng": 72.83241
+  },
+  {
+    "": 45,
+    "name": "Tata Power, Vikhroli",
+    "address": "The Tata Power Company Limited, 400 kV Project, Vikhroli Sub Station,\n      Godrej Soap Premises, Vikhroli (East), Mumbai 400079",
+    "lat": 19.095269,
+    "lng": 72.926195
+  },
+  {
+    "": 46,
+    "name": "Godrej One, Vikhroli",
+    "address": "4 Wheeler Parking area Godrej One Pirojshanagar, Eastern Express Highway,\n      Vikhroli Ã¢Â€Â“ East, Mumbai Ã¢Â€Â“ 400079",
+    "lat": 19.0925655,
+    "lng": 72.9223514
+  },
+  {
+    "": 47,
+    "name": "IOCL, Breach Candy",
+    "address": "Bhulabhai Desai Road, Breach Candy, near Tata Garden, Mumbai, Maharashtra\n      400026",
+    "lat": 18.96555,
+    "lng": 72.80346
+  },
+  {
+    "": 48,
+    "name": "Puneet, Prabadevi",
+    "address": "Lloyds Centre Point, Appasaheb Marathe Marg, Dadar West, Prabhadevi,\n      Mumbai, Maharashtra 400025",
+    "lat": 19.01296,
+    "lng": 72.82652
+  },
+  {
+    "": 49,
+    "name": "IOCL - COCO, Prabhadevi",
+    "address": "Plot No, P. N. 1207, CADELL RD. MUMBAI, PRABHADEVI CADEL RD., MUMBAI -\n      400022",
+    "lat": 19.018857,
+    "lng": 72.831076
+  },
+  {
+    "": 50,
+    "name": "Tata Power, Dharavi Colony",
+    "address": "Tata Power Dharavi Colony labour camp dharavi ,Matunga ,Mumbai 400019",
+    "lat": 19.034402,
+    "lng": 72.85284
+  },
+  {
+    "": 51,
+    "name": "Nathani Heights, Mumbai Central",
+    "address": "Junction of Bellasis Road and Dr D.B. Marg , Mumbai Central, Mumbai 400008",
+    "lat": 18.9688627,
+    "lng": 72.8207138
+  },
+  {
+    "": 52,
+    "name": "CSMT Station, Fort",
+    "address": "Chhatrapati Shivaji Maharaj Terminus, Fort, Mumbai, Maharashtra 400001",
+    "lat": 18.9453551,
+    "lng": 72.8383287
+  },
+  {
+    "": 53,
+    "name": "Mahanagar Gas Limited, Wadala",
+    "address": "MGL Terminal, opposite Anik Depot, Wadala, Mumbai, Maharashtra 400022",
+    "lat": 19.0472567,
+    "lng": 72.8783829
+  },
+  {
+    "": 54,
+    "name": "IOCL COCO, BKC",
+    "address": "Bandra Kurla Complex, New Coco At, C-67, Bharat Nagar Rd, G Block BKC,\n      Bandra Kurla Complex, Bandra East, Mumbai, Maharashtra 400051",
+    "lat": 19.0599578,
+    "lng": 72.8647916
+  },
+  {
+    "": 55,
+    "name": "Zenith Chemical Works Pvt Ltd, Andheri East",
+    "address": "Zenith Chemical Works Pvt Ltd. Plot No. B.6, Cross Road B, MIDC Marol,\n      Andheri East residing at Mumbai-400093",
+    "lat": 19.1157451,
+    "lng": 72.8682563
+  },
+  {
+    "": 56,
+    "name": "IOCL Kini Causway, Bandra West",
+    "address": "36, SV Rd, Santosh Nagar, Bandra West, Mumbai, Maharashtra 400050",
+    "lat": 19.051601,
+    "lng": 72.838011
+  },
+  {
+    "": 57,
+    "name": "Hare Krishna Mahindra, Mulund West",
+    "address": "Building, Plot 1, Udyog Kshtra, Mulund Goregaon Link Rd, near D Mart\n      Mulund, Salpa Devi Pada, Mulund West, Mumbai, Maharashtra 400080",
+    "lat": 19.163979,
+    "lng": 72.938751
+  },
+  {
+    "": 58,
+    "name": "Brookfield, Powai",
+    "address": "Spectra, High St, Hiranandani Gardens, Powai, Mumbai, Maharashtra 400076",
+    "lat": 19.11637,
+    "lng": 72.91086
+  },
+  {
+    "": 59,
+    "name": "Brookfield, Powai",
+    "address": "Pay & Park, Central Ave, Hiranandani Gardens, Powai, Mumbai,\n      Maharashtra 400076",
+    "lat": 19.11644,
+    "lng": 72.90968
+  },
+  {
+    "": 60,
+    "name": "Oberoi Mall, Goregaon",
+    "address": "Western Express Hwy, Yashodham, Goregaon, Mumbai, Maharashtra 400063",
+    "lat": 19.1737611,
+    "lng": 72.8600172
+  },
+  {
+    "": 61,
+    "name": "Oberoi Mall, Goregaon",
+    "address": "Western Express Hwy, Yashodham, Goregaon, Mumbai, Maharashtra 400063",
+    "lat": 19.1737611,
+    "lng": 72.8600172
+  },
+  {
+    "": 62,
+    "name": "Xavier Institute of Engineering",
+    "address": "Opposite S.L.Raheja Hospital, Mahim Causeway, Mahim (West), Raheja\n      Hospital Marg, Mumbai, Maharashtra 400016",
+    "lat": 19.04527839,
+    "lng": 72.84168159
+  },
+  {
+    "": 63,
+    "name": "Charge Zone",
+    "address": "MH | Mumbai | The Westin Mumbai Powai Lake,The Westin Mumbai Powai Lake\n      Kailash Nagar, Morarji Nagar, Powai, Mumbai, Maharashtra 400076",
+    "lat": 19.133659,
+    "lng": 72.900817
+  },
+  {
+    "": 64,
+    "name": "Charge Zone",
+    "address": "MH | Mumbai | NSCI - Worli,NSCI, Lala Lajpatrai Marg, Lotus Colony, Worli,\n      Mumbai, Maharashtra 400018",
+    "lat": 18.9862222,
+    "lng": 72.8149436
+  },
+  {
+    "": 65,
+    "name": "Tata Power",
+    "address": "The Taj Mahal Palace, Colaba, In front of Times Building , Apollo Bandar,\n      Colaba, Mumbai, Maharashtra 400001",
+    "lat": 18.92279506,
+    "lng": 72.83351898
+  },
+  {
+    "": 66,
+    "name": "Tata Power",
+    "address": "Seven Hills Hospital, Andheri East, SevenHills Health City, Marol Maroshi\n      Road, Andheri East, Mumbai, Maharashtra 400059",
+    "lat": 19.118831,
+    "lng": 72.87823
+  },
+  {
+    "": 67,
+    "name": "Tata Power",
+    "address": "IOCL Sahara Hospitality, Vile Parle, opp. Domestic Airport, Navpada, Vile\n      Parle East, Vile Parle, Mumbai, Maharashtra 400099",
+    "lat": 19.094122,
+    "lng": 72.85223
+  },
+  {
+    "": 68,
+    "name": "Tata Power",
+    "address": "CR - Lokmanya Tilak Station, Kurla, Outside Platform 1, Beside LTT Pay and\n      Park, LTT Station, Pipeline Rd, Tilak Nagar, Kurla, Mumbai, Maharashtra\n      400089",
+    "lat": 19.068262,
+    "lng": 72.890964
+  }
+]

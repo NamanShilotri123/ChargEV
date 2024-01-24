@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .label-auth {
+    @apply text-white block py-1 text-lg;
+  }
+  .input-auth {
+    @apply px-3 py-2 outline-none w-full;
+  }
+  .form-auth {
+    @apply p-5 bg-gray-500/30 w-[90%] lg:w-[40%] xl:w-[30%] md:w-[50%] rounded-sm shadow-lg;
+  }
+  .title-auth {
+    @apply font-bold text-4xl text-white backdrop-blur-sm;
+  }
+  .button-auth {
+    @apply w-full text-center block px-8 py-3 text-sm font-medium text-white transition bg-gradient-to-tl from-rose-700 to-pink-600 rounded;
+  }
+}
